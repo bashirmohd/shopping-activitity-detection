@@ -3,7 +3,7 @@
 ## Step 1: Ingest evaluation data
 ```bash
 pip install gdown
-gdown "https://drive.google.com/uc?export=download&id=1efhs3XDSPTnHyNZbTjSU-1jjI1H-zr_i"
+gdown "https://drive.google.com/uc?export=download&id=1_zFhG7g2s4qBU0bCyVHLVyHHAa3jYmqr"
 unzip shoplifting-videos.zip
 ```
 
