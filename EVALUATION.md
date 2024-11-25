@@ -4,7 +4,7 @@
 ```bash
 pip install gdown
 gdown "https://drive.google.com/uc?export=download&id=1sHxoiUIZ66Dh0jBrAalBZ5Rp-yLUmt_3"
-unzip shoplifting-videos.zip
+unzip All-Shoplifting.zip
 ```
 
 ## Step 2: Curate your responses
