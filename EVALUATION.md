@@ -3,7 +3,7 @@
 ## Step 1: Ingest evaluation data
 ```bash
 pip install gdown
-gdown "https://drive.google.com/uc?export=download&id=1_zFhG7g2s4qBU0bCyVHLVyHHAa3jYmqr"
+gdown "https://drive.google.com/uc?export=download&id=1sHxoiUIZ66Dh0jBrAalBZ5Rp-yLUmt_3"
 unzip shoplifting-videos.zip
 ```
 
@@ -16,8 +16,9 @@ Example
 | Filename                | Anomaly |
 |-------------------------|---------|
 | Shoplifting052_x264.mp4 | Yes     |
-| Shoplifting034_x264.mp4 | No     |
+| Shoplifting034_x264.mp4 | No      |
 | Shoplifting004_x264.mp4 | Yes     |
+| Nonshoplifting-3.mp4    | No      |
 
 Where `Yes` represents an anomalous case like theft and `No` represents a normal case.
 
